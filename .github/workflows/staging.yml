@@ -1,6 +1,6 @@
 s (19 sloc)  533 Bytes
   
-name: Upload Website
+name: S3
 
 on:
   push:

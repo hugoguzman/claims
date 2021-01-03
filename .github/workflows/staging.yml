@@ -3,7 +3,7 @@ name: Upload to Website
 on:
   push:
     branches:
-    - 'main/public/*'
+    - 'public/**'
 
 
 jobs:

@@ -2,7 +2,7 @@ name: Upload to Website
 
 on:
   push:
-    branches:
+    paths:
     - 'public/**'
 
 
